@@ -11,8 +11,7 @@ def main() -> None:
     file.write("[ENTRY 003] Archived by Data Archivist trainee\n")
     print("[ENTRY 003] Archived by Data Archivist trainee")
     file.close()
-    print()
-    print("Data inscription complete. Storage unit sealed.")
+    print("\nData inscription complete. Storage unit sealed.")
     print("Archive 'new_discovery.txt' ready for long-term preservation.")
 
 
